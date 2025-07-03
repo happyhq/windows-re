@@ -1,0 +1,7 @@
+# PyInstaller生成文件
+/dist/
+/build/
+*.spec
+
+# macOS系统文件
+.DS_Store 
